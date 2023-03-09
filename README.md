@@ -69,6 +69,6 @@ Exemplo de criação de uma tabela em SQL
 
 
 
- ### **NOTA** - Este trabalho foi realizado por alunos com conhecimentos pouco consolidados sobre tal máteria, sendo assim este trabalho contém diversos erros em várias partes. Então de forma alguma use os códigos ou arquivos sem uma prévia verificação e alteração destinada a seu problema em específico.
+ ### **NOTA** - Este trabalho foi realizado por alunos com conhecimentos pouco consolidados sobre tal matéria, sendo assim, este trabalho contém diversos erros em várias partes, então de forma alguma use os códigos ou arquivos sem uma prévia verificação e alteração destinada a seu problema em específico.
  
  
